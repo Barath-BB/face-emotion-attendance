@@ -1,9 +1,8 @@
-opencv-python
 streamlit
+opencv-python
 deepface
 fer
 moviepy==1.0.3
 imageio-ffmpeg
 pandas
 matplotlib
-
