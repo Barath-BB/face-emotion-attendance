@@ -1,0 +1,9 @@
+opencv-python
+streamlit
+deepface
+fer
+moviepy==1.0.3
+imageio-ffmpeg
+pandas
+matplotlib
+

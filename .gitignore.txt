@@ -1,0 +1,17 @@
+# Ignore venv
+venv/
+__pycache__/
+
+# Ignore video files or large outputs
+*.mp4
+*.avi
+*.mov
+
+# Ignore model weights if any
+*.h5
+*.pkl
+*.pt
+
+# Ignore dataset or images if large
+dataset/
+uploads/

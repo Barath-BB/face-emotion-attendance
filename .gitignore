@@ -1,0 +1,10 @@
+venv/ 
+__pycache__/ 
+dataset/ 
+uploads/ 
+*.mp4 
+*.avi 
+*.mov 
+*.pkl 
+*.h5 
+*.pt 
